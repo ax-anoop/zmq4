@@ -1,3 +1,3 @@
-module github.com/pebbe/zmq4
+module github.com/ax-anoop/zmq4
 
-go 1.16
+go 1.18
